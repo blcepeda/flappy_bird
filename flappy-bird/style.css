@@ -1,0 +1,20 @@
+body{
+  font-size: 16px;
+}
+
+.content {
+  width: 100%;
+  position: relative;
+}
+
+
+canvas {
+  position: absolute;
+}
+
+p {
+  position: absolute;
+  left: 50%;
+  font-size: 2rem;
+  color: #c7c2c1;
+}
